@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "MRI Acquisition and Image Reconstruction: A Computational Investigation"
+message: >
+  If you use this repository in your research, teaching,
+  or other scholarly work, please cite it using the
+  metadata provided below.
+type: software
+
+authors:
+  - family-names: Gassa
+    given-names: Fikadu Mulugeta
+
+abstract: >
+  A computational investigation into the principles of
+  Magnetic Resonance Imaging (MRI), including image
+  formation, Fourier reconstruction, k-space analysis,
+  Cartesian and radial sampling, golden-angle radial MRI,
+  density compensation, and simplified non-Cartesian
+  gridding reconstruction implemented in Python.
+
+keywords:
+  - MRI
+  - Magnetic Resonance Imaging
+  - Medical Imaging
+  - Image Reconstruction
+  - Fourier Transform
+  - k-space
+  - Radial MRI
+  - Golden-Angle MRI
+  - Gridding Reconstruction
+  - Biomedical Engineering
+  - Python
+
+license: MIT
+
+repository-code: "https://github.com/YOUR_USERNAME/MRI-Reconstruction"
+
+version: "1.0.0"
+
+date-released: "2026-07-28"
