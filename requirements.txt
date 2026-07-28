@@ -1,0 +1,8 @@
+# ======================================================
+# Golden Angle Radial MRI Acquisition and Reconstruction
+# Python Package Requirements
+# ======================================================
+
+numpy>=1.24,<3.0
+matplotlib>=3.7,<4.0
+scikit-image>=0.22,<1.0

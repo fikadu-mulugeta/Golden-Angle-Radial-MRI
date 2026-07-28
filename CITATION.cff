@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+
+title: "Golden Angle Radial MRI Acquisition and Reconstruction"
+
+message: >
+  If you use this repository in your research,
+  teaching, or other scholarly work, please cite
+  it using the metadata provided below.
+
+type: software
+
+authors:
+  - family-names: Gassa
+    given-names: Fikadu Mulugeta
+
+abstract: >
+  A computational investigation into Magnetic Resonance Imaging (MRI)
+  acquisition and image reconstruction, with a primary focus on radial
+  MRI and golden-angle sampling. The repository provides modular Python
+  implementations of digital phantom generation, Fourier Transform,
+  k-space analysis, Cartesian sampling, radial MRI acquisition,
+  golden-angle trajectory generation, density compensation, and
+  simplified non-Cartesian gridding reconstruction.
+
+keywords:
+  - MRI
+  - Magnetic Resonance Imaging
+  - Medical Imaging
+  - Image Reconstruction
+  - Fourier Transform
+  - k-space
+  - Radial MRI
+  - Golden-Angle MRI
+  - Golden Angle
+  - Non-Cartesian MRI
+  - Gridding Reconstruction
+  - Biomedical Engineering
+  - Python
+
+license: MIT
+
+repository-code: "https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI-Acquisition-and-Reconstruction"
+
+version: "1.0.0"
+
+date-released: "2026-07-28"
