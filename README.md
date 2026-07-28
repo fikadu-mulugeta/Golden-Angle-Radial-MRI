@@ -12,7 +12,7 @@ The project combines modular Python implementations with Jupyter notebooks to pr
 
 **GitHub Repository**
 
-https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI-Acquisition-and-Reconstruction
+https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI
 
 ---
 
@@ -304,9 +304,9 @@ Topics
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI-Acquisition-and-Reconstruction.git
+git clone https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI.git
 
-cd Golden-Angle-Radial-MRI-Acquisition-and-Reconstruction
+cd Golden-Angle-Radial-MRI
 ```
 
 ## Create a Virtual Environment (Optional)
@@ -433,8 +433,6 @@ Representative references include:
 # Author
 
 **Fikadu Mulugeta Gassa**
-
-M.Sc. Biomedical Engineering
 
 Research Interests
 

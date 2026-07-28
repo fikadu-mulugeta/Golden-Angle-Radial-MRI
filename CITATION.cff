@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 
-title: "Golden Angle Radial MRI Acquisition and Reconstruction"
+title: "Golden Angle Radial MRI Acquisiton and Reconstruction"
 
 message: >
   If you use this repository in your research,
@@ -39,7 +39,7 @@ keywords:
 
 license: MIT
 
-repository-code: "https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI-Acquisition-and-Reconstruction"
+repository-code: "https://github.com/fikadu-mulugeta/Golden-Angle-Radial-MRI"
 
 version: "1.0.0"
 
